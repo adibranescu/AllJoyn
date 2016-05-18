@@ -1,0 +1,2 @@
+# AllJoyn
+Proiect IDP
