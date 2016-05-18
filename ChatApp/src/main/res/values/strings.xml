@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="nick_name">Advertised Name</string>
+    <string name="hint_main_nickname">Enter your nickname</string>
+    <string name="button_main_find">Find Peers</string>
+    <string name="title_person_list_toolbar">Peers List</string>
+    <string name="hint_chat_edit_text">Write a message ...</string>
+</resources>
